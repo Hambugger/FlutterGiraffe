@@ -63,4 +63,4 @@ Flutter - The framework used.
 Dart - The programming language used.
 
 ### Authors
-Your Name - Hambugger.
+Hambugger.
